@@ -28,7 +28,7 @@ I build scalable web applications and data-driven machine learning solutions. Cu
 |---------|-------|------------|
 | [Student Performance Prediction](https://github.com/Ahito498/student-performance-prediction) | Python, Scikit-learn, XGBoost | 95% accuracy, 20K records, 3 ML tasks |
 | [Room Booking System](https://github.com/Ahito498/room-booking-system) | ASP.NET Core, MSSQL | Full-stack MVC, CRUD, EF Core |
-| [Ambulance Management Simulation](https://github.com/Ahito498/ambulance-management-simulation) | C++, Priority Queue | Real-world dispatch system design |
+| [Ambulance Management Simulation](https://github.com/Ahito498/AmbulanceManagmentSystem) | C++, Priority Queue | Real-world dispatch system design |
 | [Shape Studio](https://github.com/Ahito498/ShapeStudio) | C++, GUI, OOP | Polymorphism, inheritance, GUI rendering |
 
 ---
