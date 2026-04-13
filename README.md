@@ -1,6 +1,6 @@
 # Hi, I'm Hassan Rashwan 👋
 
-**Full-Stack Engineer & ML Developer** — Cairo, Egypt
+**Full-Stack Developer & ML Engineer** — Cairo, Egypt
 
 I build scalable web applications and data-driven machine learning solutions. Currently a 4th-year Communication & Information Engineering student at **Zewail City of Science and Technology**, with hands-on experience in MEAN Stack, ASP.NET Core, Django, and ML pipelines.
 
